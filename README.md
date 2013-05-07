@@ -1,0 +1,4 @@
+useless
+=======
+
+go testing
